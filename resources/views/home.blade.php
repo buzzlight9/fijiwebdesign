@@ -22,7 +22,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a href="#home" class="navbar-brand"><img src="img/lion.png" alt="FijiWebDesign Logo"></a>
+					<a href="#home" class="navbar-brand"><img src="img/lion2.png" alt="FijiWebDesign Logo"></a>
 				</div>
 				<div class="collapse navbar-collapse" id="navbar-collapse-main">
 					<ul class="nav navbar-nav navbar-right">
