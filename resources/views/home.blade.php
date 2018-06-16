@@ -9,7 +9,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<link href="/css/style.css" rel="stylesheet" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
-		<link rel="icon" href="bootstrap4/favicon.ico">
+		<link rel="icon" href="img/favicon.ico">
 		<link rel="stylesheet" href="">
 	</head>
 	<body>
