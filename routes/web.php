@@ -14,3 +14,5 @@
 Route::get('/', function () {
     return view('home');
 });
+Route::post('/contact', 'PagesController@postContact');
+Route::get('/success', 'PagesController@successMessage');

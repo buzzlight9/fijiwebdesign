@@ -220,7 +220,8 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-12">
-						<form id="contact-form" method="post" action="contact.php" role="form">
+					<form id="contact-form" method="POST" action="{{url('contact')}}" role="form">
+							{{csrf_field()}}
 							<div class="messages"></div>
 							<div class="controls">
 								<div class="row">
@@ -254,6 +255,13 @@
 											<div class="help-block with-errors"></div>
 										</div>
 									</div>
+									<div class="col-md-6">
+											<div class="form-group">
+												<label for="form_subject">Subject *</label>
+												<input id="form_subject" type="subject" name="subject" class="form-control" placeholder="Please enter the subject">
+												<div class="help-block with-errors"></div>
+											</div>
+										</div>
 								</div>
 								<div class="row">
 									<div class="col-md-12">
