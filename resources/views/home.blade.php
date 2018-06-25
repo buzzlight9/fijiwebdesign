@@ -291,10 +291,26 @@
 		</div>
 		</div>
 		<footer id="contact" class="container-fluid text-center">
+				<div class="row">
+					<div class="col-sm-4">
+						<h5>SHARE</h5>
+						<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffijiwebdesign.cf%2F&amp;src=sdkpreparse" class="fa fa-facebook"></a>
+					</div>
+					<div class="col-sm-4">
+						<h5>&copy; FIJI WEB DESIGN 2018</h5>	
+					</div>
+					<div class="col-sm-4">
+						<img src="img/logo3.png" class="icon" alt="">
+					</div>
+				</div>
+			</footer>
+		<!--<footer id="contact" class="container-fluid text-center">
 			<div class="row">
 				<div class="col-sm-4">
 					<h5>Share On Facebook</h5>
-					<div class="fb-share-button" data-href="https://fijiwebdesign.cf" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffijiwebdesign.cf%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+					<div class="fb-share-button" data-href="https://fijiwebdesign.cf" data-layout="button_count" data-size="large" data-mobile-iframe="true">
+						<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffijiwebdesign.cf%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a>
+					</div>
 				</div>
 				<div class="col-sm-4">
 					<h5>&copy; FIJI WEB DESIGN 2018</h5>	
@@ -303,7 +319,7 @@
 					<img src="img/logo3.png" class="icon" alt="">
 				</div>
 			</div>
-		</footer>
+		</footer>-->
 		<script>
 			$('a[href*="#"]')
 			  // Remove links that don't actually link to anything

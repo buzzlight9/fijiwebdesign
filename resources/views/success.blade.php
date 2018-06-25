@@ -66,15 +66,11 @@
         <footer id="contact" class="container-fluid text-center">
             <div class="row">
                 <div class="col-sm-4">
-                    <h3>Connect</h3>
-                    <a href="#" class="fa fa-facebook"></a>
-                    <a href="#" class="fa fa-twitter"></a>
-                    <a href="#" class="fa fa-google"></a>
-                    <a href="#" class="fa fa-linkedin"></a>
-                    <a href="#" class="fa fa-youtube"></a>
+                    <h5>SHARE</h5>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffijiwebdesign.cf%2F&amp;src=sdkpreparse" class="fa fa-facebook"></a>
                 </div>
                 <div class="col-sm-4">
-                    <h4>FijiWebDesign Copyright &copy; 2018</h4>	
+                    <h5>&copy; FIJI WEB DESIGN 2018</h5>	
                 </div>
                 <div class="col-sm-4">
                     <img src="img/logo3.png" class="icon" alt="">
