@@ -297,7 +297,7 @@
 						<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ffijiwebdesign.cf%2F&amp;src=sdkpreparse" class="fa fa-facebook"></a>
 					</div>
 					<div class="col-sm-4">
-						<h5>&copy; FIJI WEB DESIGN 2018</h5>	
+						<h5>&copy; FIJI WEB SOLUTION 2018</h5>	
 					</div>
 					<div class="col-sm-4">
 						<img src="img/logo3.png" class="icon" alt="">
